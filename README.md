@@ -19,7 +19,7 @@ If you wish to check what controller config Steam is sending to the game we have
 
 Where should I report bugs?
 
-You may report bugs and issue to our github issues tracker at https://github.com/LabZeroGames/Skullgirls
+You may report bugs and issue to our github issues tracker at https://github.com/SkullgirlsLinux/Skullgirls
 Please only report bugs that you are able to replicate (occur more than once).
 
 
